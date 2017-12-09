@@ -1,11 +1,11 @@
 Winter Tech Forum Code of Conduct
 =================================
 
-This conference is about discussion, inclusion and connection, and we want
-everyone to feel as comfortable as possible. Although we cannot guarantee you
-will have a good time, we can certainly do our best to make sure you don't
-have a *bad* time, and the baseline for this is that no one should ever be
-harrassed.
+The [Winter Tech Forum](http://wintertechforum.com/) is about discussion,
+inclusion and connection, and we want everyone to feel as comfortable as
+possible. Although we cannot guarantee you will have a good time, we can
+certainly do our best to make sure you don't have a *bad* time, and the
+baseline for this is that no one should ever be harrassed.
 
 To achieve this goal, all participants, sponsors and volunteers at our event
 are required to agree with this code of conduct (CoC). Organizers will enforce
