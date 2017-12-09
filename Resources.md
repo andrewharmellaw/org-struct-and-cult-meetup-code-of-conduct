@@ -3,6 +3,8 @@ Some Codes of Conduct and Discussions about CoCs
 
 -   http://accessibilitycampseattle.org/code-of-conduct/
 
+-   https://github.com/python/pycon-code-of-conduct?files=1
+
 -   http://confcodeofconduct.com/
 
 -   https://qconsf.com/code-conduct
