@@ -25,6 +25,14 @@ offending behavior upon notification. Participants who continue to violate
 these rules after being notified may be sanctioned or expelled from the event
 without a refund at the discretion of the conference organizers.
 
+Points of Contact
+-----------------
+
+We recognize that managing harassment at the Winter Tech Forum is not the job
+of its recipients. The conference organizers will make themselves available to
+address any & all complaints of harassment, and the relevant contact information
+will be made available to participants on arrival at the conference.
+
 Our Goal for this CoC
 ---------------------
 
@@ -41,9 +49,9 @@ be forcibly ejected. Simply punishing mistakes without giving someone the
 opportunity to learn is not the goal of this CoC.
 
 The CoC tells you when you've made a mistake, and empowers others to have a
-conversation with you about it. And most importantly, it will tell newcomers
-that we value the safety of their feelings. The focus is on the goal that
-"you will not be harassed."
+conversation with you about it. And most importantly, it will tell newcomers &
+traditionally marginalized attendees that we value their safety. The focus is on
+the goal that "you will not be harassed."
 
 There are times when it doesn't matter what you do, someone might be having a
 bad day and feel anger or some other emotion regardless of who is nearby or
