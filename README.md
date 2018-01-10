@@ -104,4 +104,4 @@ The Four Agreements, By Don Miguel Ruiz
 
 3. **Don’t Make Assumptions:** Find the courage to ask questions and to express what you really want. Communicate with others as clearly as you can to avoid misunderstandings, sadness and drama. With just this one agreement, you can completely transform your life.
 
-4. **Always Do Your Best:** Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse, and regret.
+4. **Always Do Your Best:** Your best changes from moment to moment; it is different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgment, self-abuse, and regret.
