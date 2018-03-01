@@ -13,4 +13,8 @@ Some Codes of Conduct and Discussions about CoCs
 
 -   https://blog.valerieaurora.org/tag/code-of-conduct/
 
--   http://geekfeminism.wikia.com/index.php?title=Conference_anti-harassment_policy
+-   http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
+
+Responding:
+
+-   http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports

@@ -12,6 +12,9 @@ are required to agree with this code of conduct (CoC). Organizers will enforce
 this CoC throughout the event. We expect cooperation from all participants to
 help ensure a safe environment for everybody.
 
+This CoC applies during the entire duration of the conference (not just during
+formal sessions or conference-specific locations).
+
 We do not tolerate harassment of participants in any form. Harassment includes
 offensive verbal comments related to disability, gender, gender identity and
 expression, age, sexual orientation, physical appearance, body size, race,
@@ -29,9 +32,28 @@ Points of Contact
 -----------------
 
 We recognize that managing harassment at the Winter Tech Forum is not the job
-of its recipients. The conference organizers will make themselves available to
-address any & all complaints of harassment, and the relevant contact information
-will be made available to participants on arrival at the conference.
+of its recipients. The conference organizer and delegated individuals (*contact
+persons*) will make themselves available to address any & all complaints of
+harassment, and the relevant contact information for them will be
+made available to participants on arrival at the conference, during the
+initial meeting.
+
+What You Can Expect
+-------------------
+
+If there is a problem and you reach out to one of the contact persons, you
+can expect that:
+
+1. You will be heard and trusted.
+
+2. The conference organizer will be informed.
+
+3. A discussion will be initiated between the contact person and/or conference
+   organizer and the person in question, to stop the behavior in question
+   and possibly include a warning to that person.
+
+If you're not sure that behavior counts as harrassment, please reach out to any
+contact person. We are happy to talk it over with you.
 
 Our Goal for this CoC
 ---------------------
