@@ -1,15 +1,15 @@
-Winter Tech Forum Code of Conduct
-=================================
+Code of Conduct
+===============
 
-The [Winter Tech Forum](http://wintertechforum.com/) is about discussion,
+The Organisational Structure and Culture Meetups are about discussion,
 inclusion and connection, and we want everyone to feel as comfortable as
 possible. Although we cannot guarantee you will have a good time, we can
 certainly do our best to make sure you don't have a *bad* time, and the
 baseline for this is that no one should ever be harrassed.
 
-To achieve this goal, all participants, sponsors and volunteers at our event
+To achieve this goal, all participants, sponsors and volunteers at our events
 are required to agree with this code of conduct (CoC). Organizers will enforce
-this CoC throughout the event. We expect cooperation from all participants to
+this CoC throughout all events. We expect cooperation from all participants to
 help ensure a safe environment for everybody.
 
 This CoC applies during the entire duration of the conference (not just during
@@ -31,8 +31,8 @@ without a refund at the discretion of the conference organizers.
 Points of Contact
 -----------------
 
-We recognize that managing harassment at the Winter Tech Forum is not the job
-of its recipients. The conference organizer and delegated individuals (*contact
+We recognize that managing harassment at our meetups is not the job
+of its recipients. The conference organizers and delegated individuals (*contact
 persons*) will make themselves available to address any & all complaints of
 harassment, and the relevant contact information for them will be
 made available to participants on arrival at the conference, during the
@@ -46,10 +46,10 @@ can expect that:
 
 1. You will be heard and trusted.
 
-2. The conference organizer will be informed.
+2. The conference organizers will be informed.
 
 3. A discussion will be initiated between the contact person and/or conference
-   organizer and the person in question, to stop the behavior in question
+   organizers and the person in question, to stop the behavior in question
    and possibly include a warning to that person.
 
 If you're not sure that behavior counts as harrassment, please reach out to any
