@@ -1,5 +1,5 @@
-Code of Conduct
-===============
+Our Code of Conduct
+===================
 
 All Organisational Structure and Culture Meetups are about discussion,
 inclusion and connection, and we want everyone to feel as comfortable as
