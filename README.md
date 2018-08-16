@@ -1,7 +1,7 @@
 Code of Conduct
 ===============
 
-The Organisational Structure and Culture Meetups are about discussion,
+All Organisational Structure and Culture Meetups are about discussion,
 inclusion and connection, and we want everyone to feel as comfortable as
 possible. Although we cannot guarantee you will have a good time, we can
 certainly do our best to make sure you don't have a *bad* time, and the
