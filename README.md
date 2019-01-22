@@ -1,7 +1,7 @@
 Our Code of Conduct
 ===================
 
-All Organisational Structure and Culture Meetups are about discussion,
+All Open Spaces Meetups are about discussion,
 inclusion and connection, and we want everyone to feel as comfortable as
 possible. Although we cannot guarantee you will have a good time, we can
 certainly do our best to make sure you don't have a *bad* time, and the
@@ -9,7 +9,7 @@ baseline for this is that no one should ever be harrassed.
 
 To achieve this goal, all participants, sponsors and volunteers at our events
 are required to agree with this code of conduct (CoC). Organizers will enforce
-this CoC throughout all events. We expect cooperation from all participants to
+this CoC throughout the events. We expect cooperation from all participants to
 help ensure a safe environment for everybody.
 
 This CoC applies during the entire duration of the conference (not just during
