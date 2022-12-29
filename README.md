@@ -15,13 +15,13 @@ help ensure a safe environment for everybody.
 This CoC applies during the entire duration of the conference (not just during
 formal sessions or conference-specific locations).
 
-We do not tolerate harassment of participants in any form. Harassment includes
+***We do not tolerate harassment of participants in any form. Harassment includes
 offensive verbal comments related to disability, gender, gender identity and
 expression, age, sexual orientation, physical appearance, body size, race,
 ethnicity, religion, technology choices, sexual images in public spaces,
 deliberate intimidation, stalking, following, harassing photography or
 recording, sustained disruption of talks or other events, inappropriate
-physical contact, and unwelcome attention of any kind.
+physical contact, and unwelcome attention of any kind.***
 
 Participants violating these rules are expected to immediately cease the
 offending behavior upon notification. Participants who continue to violate
