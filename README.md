@@ -32,8 +32,7 @@ Points of Contact
 -----------------
 
 We recognize that managing harassment at our meetups is not the job
-of its recipients. The conference organizers and delegated individuals (*contact
-persons*) will make themselves available to address any & all complaints of
+of its recipients. The conference organizers and delegated individuals (Kenny Baas-Schwegler, Krisztina Hirth, Tobias Goeschel, Trond Hjorteland, Diana Montalion and Andrew Harmel-Law) will make themselves available to address any & all complaints of
 harassment, and the relevant contact information for them will be
 made available to participants on arrival at the conference, during the
 initial meeting.
