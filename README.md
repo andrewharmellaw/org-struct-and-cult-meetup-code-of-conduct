@@ -1,7 +1,7 @@
 Our Code of Conduct
 ===================
 
-All Organisational Structure and Culture Meetups are about discussion,
+This Open Space (as always) is about discussion,
 inclusion and connection, and we want everyone to feel as comfortable as
 possible. Although we cannot guarantee you will have a good time, we can
 certainly do our best to make sure you don't have a *bad* time, and the
@@ -32,7 +32,8 @@ Points of Contact
 -----------------
 
 We recognize that managing harassment at our meetups is not the job
-of its recipients. The conference organizers and delegated individuals (Kenny Baas-Schwegler, Krisztina Hirth, Tobias Goeschel, Trond Hjorteland, Diana Montalion and Andrew Harmel-Law) will make themselves available to address any & all complaints of
+of its recipients. The conference organizers and delegated individuals (names in the #open-space-principles-and-law discord channel)
+will make themselves available to address any & all complaints of
 harassment, and the relevant contact information for them will be
 made available to participants on arrival at the conference, during the
 initial meeting.
